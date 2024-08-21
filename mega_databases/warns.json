@@ -1,0 +1,43 @@
+{
+  "902770809100177418": {
+    "902801715642892309": [
+      {
+        "warnNumber": 1,
+        "user": "oasoyesuardito#0",
+        "reason": "No reason",
+        "mod": "watvz#0",
+        "time": 1718514355985
+      }
+    ],
+    "925917445464657920": [
+      {
+        "warnNumber": 4,
+        "user": "bvhh#0",
+        "reason": "Sending links.",
+        "mod": "Piojo-Hub",
+        "time": 1718535578069
+      },
+      {
+        "warnNumber": 3,
+        "user": "bvhh#0",
+        "reason": "Flooding chat.",
+        "mod": "Piojo-Hub",
+        "time": 1718535555831
+      },
+      {
+        "warnNumber": 2,
+        "user": "bvhh#0",
+        "reason": "Flooding chat.",
+        "mod": "Piojo-Hub",
+        "time": 1718535555575
+      },
+      {
+        "warnNumber": 1,
+        "user": "bvhh#0",
+        "reason": "Flooding chat.",
+        "mod": "Piojo-Hub",
+        "time": 1718535555290
+      }
+    ]
+  }
+}
